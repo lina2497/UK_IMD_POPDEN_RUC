@@ -7,3 +7,5 @@ Northern Ireland and Wales.
 The output of this is a data frame for each country stored in "untidyout.rds"
 
 "tidying up.r" takes "untidyout.rds", tidies it and combines it into a single dataframe for each country.
+
+The output dataframe is available in either "UK_LSOA_POP_IMD_RUC.csv" or "UK_tidy.rds"
